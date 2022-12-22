@@ -19,7 +19,7 @@
     "graphql": "^0.13.2",
     "graphql-cli": "^2.16.7",
     "graphql-yoga": "1.16.2",
-    "jsonwebtoken": "8.3.0",
+    "jsonwebtoken": "9.0.0",
     "nodemailer": "^4.6.8",
     "nodemon": "^2.0.2",
     "now": "^16.7.3",
